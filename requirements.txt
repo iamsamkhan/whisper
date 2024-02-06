@@ -1,0 +1,15 @@
+
+#Python 3.7 
+Streamlit
+SpeechRecognition
+PyDub
+whisper 
+ffmpeg
+torch
+numpy
+
+#pip install git+https://github.com/openai/whisper
+#pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
+#scoop install ffmpeg
+#choco install ffmpeg
+#pip install setuptools-rust #does't provide wheel installation 

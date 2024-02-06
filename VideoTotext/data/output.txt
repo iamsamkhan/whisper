@@ -1,0 +1,5 @@
+MoviePy - Writing audio in temp_audio.wav
+                                                                                                                                                                       
+MoviePy - Done.
+Recognized Text: hello my name is Andreas I am studying marketing at the University of Texas at Dallas I am a member of the American Marketing Association and Africa which are dedicated to shaping future business leaders I hope to incorporate my business knowledge and to consumers and analysis and English
+Video-to-Text Time: 14.92 seconds
