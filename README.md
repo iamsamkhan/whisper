@@ -192,3 +192,5 @@ Disclaimer
 ===========
 
 I wrote *easy_whisper* for my personal use and published it for others who may also find it useful. If you have any question, feel free to ask, but keep in mind that I can only reply in my spare time.
+
+![Alt Text](social-preview.png)
