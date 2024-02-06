@@ -3,6 +3,10 @@
 About Whisper
 ===================
 
+
+
+
+
 The python library *easy_whisper* is an easy to use adaptation of the popular *OpenAI Whisper* for transcribing audio files. The main features are:
 
 * both CLI and (tkinter) GUI user interface
